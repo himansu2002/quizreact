@@ -1,0 +1,29 @@
+[
+    
+  {
+      "title": "What is the largest planet in our solar system?",
+      "options": ["Mars", "Jupiter", "Earth", "Saturn"],
+      "correctoptionindex": 1
+    },
+    {
+      "title": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Leo Tolstoy"],
+      "correctoptionindex": 1
+    },
+    {
+      "title": "What is the chemical symbol for gold?",
+      "options": ["Go", "Au", "Ag", "Gi"],
+      "correctoptionindex": 1
+    },
+    {
+      "title": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctoptionindex": 1
+    },
+    {
+      "title": "What is the capital of Australia?",
+      "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+      "correctoptionindex": 1
+    }
+]
+  
